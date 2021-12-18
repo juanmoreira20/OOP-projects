@@ -1,3 +1,4 @@
+#programa desenvolvido para o treino de conceitos básicos da orientação a objeto como encapsulamento, propriedades, métodos estáticos e privados
 class Conta:
     def __init__(self, numero, titular, saldo, limite,):
         self.__numero = numero
